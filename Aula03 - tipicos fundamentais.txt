@@ -1,0 +1,28 @@
+Eu como organizador de eventos encontrava certas dificuldades na hora de organizar eventos, era tudo muito burocratico e em papeis, por meio de  dezenas de formularios e imaginei que pudesse ter um sistema que facilitasse a minha empresa na organização dos eventos
+
+
+inicialmente, queria cadastrar algumas informações do evento, que seriam: sigla, titulo, nome, periodo. e também quem será a equipe organizadora.
+
+Queria ainda uma forma de cadastrar dentro do evento certas atividades, que poderiam ser elas:  minicursos, mesa redonda, feira e palestras. Nos minicursos o numero de inscritos deve ser limitado ja que normalmente ocorre em laboratorios. E para cada atividade tenha um encarregado. 
+
+O sistema deve ainda permitir inscrições de interessados em participar das atividades. E se possivel confirmem a participação apos a participação no evento.
+
+Gerar ainda listas de inscritos por atividades e eventos, a confirmação que participou e relatorio geral de estatisticas do evento(
+-quantidade total de envolvidos
+-porcentagem de participantes por atividade
+
+)
+
+
+
+AULA 03
+Topicos fundamentais
+
+
+
+xp - eXtreme programing
+metodologia agil: muito utilizada na atualidade
+desenvolvida para:
+equipe medias e pequenas()
+
+desafios identificado

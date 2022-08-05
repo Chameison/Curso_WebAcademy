@@ -1,0 +1,16 @@
+Eu como gerente de alguns estacionamentos quero facilitar o multiplo gerenciamento, que ainda é muito burocrático.
+Eu como gerente preciso de ter as informações dos estacionamentos com as vagas e o preço da hora/fração cobrado.
+Eu como gerente preciso conseguir reajustar os valores cobrados e também as vagas, tais como posições dispostas delas.
+Eu como gerente preciso que essas atualizações sejam feitas em tempo real, o mais rapido possivel para que possa acompanhar.
+Eu como gerente preciso registrar os funcionarios dos estacionamentos, tal como remover ou fazer trocas. 
+Eu como funcionario preciso lançar tudo no sistema, tirar foto do carro e registrar o devido pagamento.
+
+
+#Aula04 - Tópicos fundamentais;
+Prof:Jair;
+
+* Gerenciamentode configuração
+* Sistema de Controle de Versão
+*
+
+
